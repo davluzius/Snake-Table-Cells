@@ -3,6 +3,8 @@ Snake-Table-Cells
 
 play the game : http://davedave.us/snake/
 
+![Alt snake game](http://www.davedave.us/snake/snake.png)
+
 classic nokia style snake game using table cells
 
 I did this years ago to learn javascript, hopefully it's helpful to others starting out with javascript.
